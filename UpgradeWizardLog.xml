@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\ApiKPITop500.csproj" />
+  <event action="Analyze" type="Success" name="202106031637373_MigracionTop500.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106031637373_MigracionTop500.resx" />
+  <event action="Analyze" type="Success" name="202106071724331_MigrationUser.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106071724331_MigrationUser.resx" />
+  <event action="Analyze" type="Success" name="202106212017394_Migration2.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106212017394_Migration2.resx" />
+  <event action="Analyze" type="Success" name="202106212053137_Migration3.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106212053137_Migration3.resx" />
+  <event action="Analyze" type="Success" name="202106241548520_MigrationUpdateItemTop.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106241548520_MigrationUpdateItemTop.resx" />
+  <event action="Analyze" type="Success" name="202106241606491_MigrationUpdateUsers.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106241606491_MigrationUpdateUsers.resx" />
+  <event action="Analyze" type="Success" name="202106261619001_MigrationUpdateItemTop500.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106261619001_MigrationUpdateItemTop500.resx" />
+  <event action="Analyze" type="Success" name="202106291948221_UserLogged.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202106291948221_UserLogged.resx" />
+  <event action="Analyze" type="Success" name="202107011706438_MigrationFaltantes.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202107011706438_MigrationFaltantes.resx" />
+  <event action="Analyze" type="Success" name="202107022256023_UserState.resx" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Migrations\202107022256023_UserState.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\packages.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\Web.Release.config" />
+  <event action="Analyze" type="Success" name="ApiKPITop500" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\ApiKPITop500.csproj" />
+  <event action="Analyze" type="Success" name="ApiKPITop500" path="C:\Users\User\Documents\GitHub\ApiTop500Productos\ApiKPITop500.sln" />
+</log>
